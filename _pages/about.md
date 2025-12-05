@@ -28,10 +28,10 @@ I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), super
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS 2025</div><img src='images/VGSurvey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS 2026</div><img src='images/VGSurvey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Visual Grounding in 2D and 3D: A unified perspective and survey](https://www.sciencedirect.com/science/article/pii/S1566253525006979) *INFFUS, 2025*
+[Visual Grounding in 2D and 3D: A unified perspective and survey](https://www.sciencedirect.com/science/article/pii/S1566253525006979) *INFFUS, 2026*
 
 Keyu Guo, Yongle Huang, Tinglei Jia, Xiangyu Song, Shijie Sun, **Hongkai Wei**, Xian-Feng Han, Shuwen Huang, Nicola Strisciuglio ,Shuyan Li
 
