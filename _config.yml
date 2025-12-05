@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hongkai Wei"
-  avatar           : "images/congpeishan.png"
-  bio              : "I'm a Ph.D. student in Chang'an University, China. Currently, as a visiting Ph.D. student at The University of Melbourne, Australia. My research interests include computer vision and scene understanding."
-  location         : "Xi'an, China"
+  avatar           : "images/Profile.jpg"
+  bio              : "I'm a Ph.D. student at Chang'an University, China. Currently as a visiting Ph.D. student at The University of Melbourne, Australia."
+  location         : "Melbourne, Australia; Xi'an China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-BME1D8AAAAJ"
