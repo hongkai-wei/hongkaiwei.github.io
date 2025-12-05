@@ -23,7 +23,7 @@ I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), super
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 One paper accpeted by INFFUS 2026! 
+- *2025.08*: &nbsp;🎉🎉 One paper accpeted by INFFUS! 
 - *2025.04*: &nbsp;🎉🎉 One paper accpeted by IJCNN 2025! 
 - *2025.02*: &nbsp;🎉🎉 One paper accpeted by CVPR 2025! 
 - *2025.02*: &nbsp;🎉🎉 One paper accpeted by CMPB 2025! 
@@ -31,10 +31,10 @@ I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), super
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS 2026</div><img src='images/VGSurvey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS</div><img src='images/VGSurvey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Visual Grounding in 2D and 3D: A unified perspective and survey](https://www.sciencedirect.com/science/article/pii/S1566253525006979) *INFFUS, 2026*
+[Visual Grounding in 2D and 3D: A unified perspective and survey](https://www.sciencedirect.com/science/article/pii/S1566253525006979) *INFFUS*
 
 Keyu Guo, Yongle Huang, Tinglei Jia, Xiangyu Song, Shijie Sun, **Hongkai Wei**, Xian-Feng Han, Shuwen Huang, Nicola Strisciuglio ,Shuyan Li
 
@@ -44,7 +44,7 @@ Keyu Guo, Yongle Huang, Tinglei Jia, Xiangyu Song, Shijie Sun, **Hongkai Wei**, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2025</div><img src='images/MSALNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MSALNet: Capturing Contextual Relationships for Monocular 3D Visual Grounding](https://ieeexplore.ieee.org/document/11227744) *IJCNN, 2025*
+[MSALNet: Capturing Contextual Relationships for Monocular 3D Visual Grounding](https://ieeexplore.ieee.org/document/11227744) *IJCNN'2025*
 
 Keyu Guo, Yongle Huang, Yongfeng Bu, **Hongkai Wei**, Shijie Sun, Xiangyu Song
 
@@ -54,7 +54,7 @@ Keyu Guo, Yongle Huang, Yongfeng Bu, **Hongkai Wei**, Shijie Sun, Xiangyu Song
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/Mono3DVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking](https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Mono3DVLT_Monocular-Video-Based_3D_Visual_Language_Tracking_CVPR_2025_paper.pdf) *CVPR, 2025*
+[Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking](https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Mono3DVLT_Monocular-Video-Based_3D_Visual_Language_Tracking_CVPR_2025_paper.pdf) *CVPR'2025*
 
 **Hongkai Wei**, Yang Yang, Shijie Sun, Mingtao Feng, Xiangyu Song, Qi Lei, Hongli Hu, Rong Wang, Huansheng Song, Naveed Akhtar, Ajmal Saeed Mian
 
@@ -62,10 +62,10 @@ Keyu Guo, Yongle Huang, Yongfeng Bu, **Hongkai Wei**, Shijie Sun, Xiangyu Song
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMPB 2025</div><img src='images/LMTTM-VMI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMPB</div><img src='images/LMTTM-VMI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LMTTM-VMI: Linked Memory Token Turing Machine for 3D volumetric medical image classification](https://www.sciencedirect.com/science/article/abs/pii/S0169260725000574) *CMPB, 2025*
+[LMTTM-VMI: Linked Memory Token Turing Machine for 3D volumetric medical image classification](https://www.sciencedirect.com/science/article/abs/pii/S0169260725000574) *CMPB*
 
 **Hongkai Wei**, Yang Yang, Shijie Sun, Mingtao Feng, Rong Wang, Xianfeng Han
 
@@ -75,16 +75,15 @@ Keyu Guo, Yongle Huang, Yongfeng Bu, **Hongkai Wei**, Shijie Sun, Xiangyu Song
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/MTTM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MTTM: Memory-Augmented with Mamba for 3D Medical Images Analysis](https://ieeexplore.ieee.org/abstract/document/10888361) *ICASSP, 2025*
+[MTTM: Memory-Augmented with Mamba for 3D Medical Images Analysis](https://ieeexplore.ieee.org/abstract/document/10888361) *ICASSP'2025*
 
 **Hongkai Wei**, Yang Yang, Shijie Sun, Huansheng Song, Keyu Guo, Yongfeng Bu
 
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors and Awards 
+- *2021.12* National Scholarship. 
 
 # 📖 Educations
 - *2025.10 - now*, Computing and Information Systems, Visiting Ph.D., The University of Melbourne, Melbourne, Victoria, Australia.
