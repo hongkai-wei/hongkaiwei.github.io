@@ -23,8 +23,11 @@ I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), super
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: &nbsp;🎉🎉 One paper accpeted by INFFUS 2026! 
+- *2025.04*: &nbsp;🎉🎉 One paper accpeted by IJCNN 2025! 
+- *2025.02*: &nbsp;🎉🎉 One paper accpeted by CVPR 2025! 
+- *2025.02*: &nbsp;🎉🎉 One paper accpeted by CMPB 2025! 
+- *2024.12*: &nbsp;🎉🎉 One paper accpeted by ICASSP 2025! 
 
 # 📝 Publications 
 
@@ -48,16 +51,6 @@ Keyu Guo, Yongle Huang, Yongfeng Bu, **Hongkai Wei**, Shijie Sun, Xiangyu Song
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/MTTM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MTTM: Memory-Augmented with Mamba for 3D Medical Images Analysis](https://ieeexplore.ieee.org/abstract/document/10888361) *ICASSP, 2025*
-
-**Hongkai Wei**, Yang Yang, Shijie Sun, Huansheng Song, Keyu Guo, Yongfeng Bu
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/Mono3DVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -67,6 +60,7 @@ Keyu Guo, Yongle Huang, Yongfeng Bu, **Hongkai Wei**, Shijie Sun, Xiangyu Song
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMPB 2025</div><img src='images/LMTTM-VMI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -78,6 +72,15 @@ Keyu Guo, Yongle Huang, Yongfeng Bu, **Hongkai Wei**, Shijie Sun, Xiangyu Song
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/MTTM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MTTM: Memory-Augmented with Mamba for 3D Medical Images Analysis](https://ieeexplore.ieee.org/abstract/document/10888361) *ICASSP, 2025*
+
+**Hongkai Wei**, Yang Yang, Shijie Sun, Huansheng Song, Keyu Guo, Yongfeng Bu
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
