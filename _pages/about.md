@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Nice to meet you, I am Hongkai Wei (魏弘凯)! **
+**Nice to meet you, I am Hongkai Wei (魏弘凯)!**
 
-I am a Ph.D. Student at Chang'an University, supervised by Prof. Huansheng Song (宋焕生), co-supervised by Prof. Shijie Sun (孙士杰). Currently, I am a Visiting Ph.D. Student at The University of Melbourne, working closely with Prof. Naveed Akhtar. Before that, I received the B.S. degree from Chengdu University.
-
+I am a Ph.D. Student at [**Chang'an University**](https://www.chd.edu.cn), supervised by [**Prof. Huansheng Song (宋焕生)**](https://js.chd.edu.cn/xxgcxy/shs), co-supervised by [**Prof. Shijie Sun (孙士杰)**](https://js.chd.edu.cn/sjkxyrgzn/ssj102). Currently, I am a Visiting Ph.D. Student at [**The University of Melbourne**](https://www.unimelb.edu.au/), working closely with [**Prof. Naveed Akhtar**](https://findanexpert.unimelb.edu.au/profile/1050019-naveed-akhtar). Before that, I received the B.S. degree from [**Chengdu University**](https://www.cdu.edu.cn).
 
 
 # 🔥 News
